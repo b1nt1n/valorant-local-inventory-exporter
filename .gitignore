@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Local IDE/system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated outputs (contains account-specific inventory data)
+inventory.png
+agents.png
+player_cards.png
+sprays.png
+buddies.png
+titles.png
+
+# Local debug artifacts
+*.log

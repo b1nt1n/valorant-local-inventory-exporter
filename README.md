@@ -48,6 +48,26 @@ Generated files are saved in the same folder as `val.py`.
 - `buddies.png`
 - `titles.png`
 
+## Screenshots
+
+### Skins Inventory
+![Skins Inventory](assets/inventory-example.png)
+
+### Agents
+![Agents](assets/agents-example.png)
+
+### Player Cards
+![Player Cards](assets/player-cards-example.png)
+
+### Sprays
+![Sprays](assets/sprays-example.png)
+
+### Buddies
+![Buddies](assets/buddies-example.png)
+
+### Titles
+![Titles](assets/titles-example.png)
+
 ## Security and Privacy
 
 - No Riot username/password is stored.
